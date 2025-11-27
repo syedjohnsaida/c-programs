@@ -1,0 +1,54 @@
+1. Decide the Type of Company
+Choose the type of company to register:
+
+Private Limited Company (most common)
+Public Limited Company
+One Person Company (OPC)
+Limited Liability Partnership (LLP)
+Sole Proprietorship
+Section 8 Company (Non-profit)
+2. Obtain a Digital Signature Certificate (DSC)
+Since all forms are submitted online, every proposed director or designated partner must have a DSC:
+
+Obtain a DSC from a government-recognized certifying authority (e.g., eMudhra, Sify).
+Documents needed: PAN card, Aadhaar card, photo, email ID, and phone number.
+3. Apply for a Director Identification Number (DIN)
+A DIN is required for all directors.
+Apply via the SPICe+ (Simplified Proforma for Incorporating Company Electronically) form on the MCA portal.
+Documents needed: Identity proof, address proof, and a passport-sized photo.
+4. Reserve a Name (Optional but Recommended)
+Use the RUN (Reserve Unique Name) service on the MCA portal to propose a company name.
+Follow the Companies Act, 2013 guidelines:
+The name should be unique.
+Avoid prohibited or restricted terms.
+Approval typically takes 1-2 days.
+5. Draft the Memorandum and Articles of Association (MOA & AOA)
+MOA: Outlines the company’s objectives and scope of work.
+AOA: Defines the company’s internal rules and regulations.
+6. File for Incorporation
+Use the SPICe+ Form on the MCA portal. This integrated form includes:
+
+Company registration.
+DIN allotment.
+PAN and TAN application.
+GSTIN (optional).
+Required Documents:
+MOA & AOA
+ID and address proof of directors
+Address proof of the registered office (e.g., utility bill, rental agreement)
+No Objection Certificate (NOC) from the owner if the premises are rented.
+7. Certificate of Incorporation
+Once the MCA approves the application, you'll receive a Certificate of Incorporation with the Corporate Identification Number (CIN).
+This serves as legal proof of your company's existence.
+8. Post-Incorporation Compliance
+Apply for:
+PAN and TAN (automatic via SPICe+ form).
+GST Registration (if applicable).
+Open a bank account in the company’s name.
+Maintain statutory books and registers.
+Appoint an auditor within 30 days.
+Timeline and Costs
+Time: Approximately 7-15 days, depending on document preparation and processing.
+Cost:
+Professional fees (if using a consultant): ₹5,000 - ₹15,000+
+MCA fees: Varies with company type and capital
